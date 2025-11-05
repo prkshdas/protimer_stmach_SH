@@ -1,0 +1,10 @@
+../Core/Src/main.cpp:44:16:uint8_t debounce_step(Debounce*, uint8_t)	5
+../Core/Src/main.cpp:62:16:uint8_t read_buttons_packed()	1
+../Core/Src/main.cpp:79:16:uint8_t decode_btn_event(uint8_t)	6
+../Core/Src/main.cpp:127:13:void protimer_event_dispatcher(protimer_t*, const event_t*)	2
+../Core/Src/main.cpp:149:9:uint8_t process_btn_val(uint8_t)	11
+../Core/Src/main.cpp:189:5:int main()	8
+../Core/Src/main.cpp:263:6:void SystemClock_Config()	3
+../Core/Src/main.cpp:302:13:void MX_I2C1_Init()	2
+../Core/Src/main.cpp:334:13:void MX_GPIO_Init()	1
+../Core/Src/main.cpp:379:6:void Error_Handler()	1
